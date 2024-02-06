@@ -59,7 +59,7 @@ const useStyles = makeStyles((theme) => ({
     padding: "10px 10px 5px",
     margin: "10px 10px 10px auto",
     position: "relative",
-    backgroundColor: "#72A0C1",
+    backgroundColor: "#131B32",
     color: "#fafafa",
     textAlign: "right",
     maxWidth: 300,

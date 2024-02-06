@@ -1,12 +1,13 @@
 {
     "system": {
-        "name": "AppBot",
+        "name": "Whatisac",
         "url": "https://tickets.appbot.cloud",
         "color": {
             "lightTheme": {
                 "palette": {
-                    "primary": "#F04405",
-                    "secondary": "#0D0D0D"          
+                    "primary": "#0050FF",
+                    "secondary": "#131B32"
+                
 }
 }
 }
